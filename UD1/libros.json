@@ -1,0 +1,21 @@
+{
+    "asunto": "lenguaje de marcas",
+    "publicacion" : "2021",
+    "editorial": "paraninfo",
+    "lenguaje": [
+        {
+            "nombre": "HTML",
+            "USO": "WEB"
+         } ,
+        {
+            "nombre" : "XML",
+            "USO": "INTERCAMBIO DE DATOS"
+        },
+        {
+            "NOMBRE":"json",
+            "uso" : "intercambio de datos" 
+        }
+    ]
+
+
+}
